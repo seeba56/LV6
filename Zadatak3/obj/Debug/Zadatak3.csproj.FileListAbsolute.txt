@@ -1,0 +1,6 @@
+C:\Users\seba\source\repos\Zadatak1\Zadatak3\bin\Debug\Zadatak3.exe.config
+C:\Users\seba\source\repos\Zadatak1\Zadatak3\bin\Debug\Zadatak3.exe
+C:\Users\seba\source\repos\Zadatak1\Zadatak3\bin\Debug\Zadatak3.pdb
+C:\Users\seba\source\repos\Zadatak1\Zadatak3\obj\Debug\Zadatak3.csprojAssemblyReference.cache
+C:\Users\seba\source\repos\Zadatak1\Zadatak3\obj\Debug\Zadatak3.exe
+C:\Users\seba\source\repos\Zadatak1\Zadatak3\obj\Debug\Zadatak3.pdb

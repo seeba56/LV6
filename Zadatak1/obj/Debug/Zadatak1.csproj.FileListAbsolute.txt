@@ -1,0 +1,5 @@
+C:\Users\seba\source\repos\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\Users\seba\source\repos\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe
+C:\Users\seba\source\repos\Zadatak1\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\seba\source\repos\Zadatak1\Zadatak1\obj\Debug\Zadatak1.exe
+C:\Users\seba\source\repos\Zadatak1\Zadatak1\obj\Debug\Zadatak1.pdb
